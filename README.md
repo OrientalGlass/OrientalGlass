@@ -1,4 +1,10 @@
-## Hi there 👋
+# Hi 👋, I'm OrientalGlass
+
+- 🌱 I'm currently learning **Reverse Engineering and Mobile Security**
+
+- 📫 How to reach me **oriental0glass@gmail.com**
+
+- 📝 I regularly write articles on **[https://orientalglass.github.io](https://orientalglass.github.io)**
 
 <!--
 **OrientalGlass/OrientalGlass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
